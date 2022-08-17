@@ -1,1 +1,20 @@
-/* styles go here */
+.fieldset {
+  margin-bottom: 20px;
+}
+
+.form-field:not(:last-of-type) {
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* .field:not(:last-of-type) {
+  margin-bottom: 10px;
+} */
+
+/* .fieldset > .field:not(:last-of-type) {
+  margin-bottom: 10px;
+} */
+
+/* .field {
+  margin-bottom: 10px;
+} */
